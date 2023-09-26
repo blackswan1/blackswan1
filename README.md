@@ -1,7 +1,7 @@
 #### About me
-🔭 I'm a Business data processing specialist with specialization in data management.</br>
+🔭 I'm a passionate Data Artisan with an advisory and mentoring flair.</br>
 👯 I’m looking to collaborate on data driven services and/or products.</br>
-🌱 I’m currently learning about Data Science.</br>
+🌱 I’m currently learning about Data Science and moderne Data Architectures.</br>
 ⚡ Fun fact: A sunflower is not just one flower. The sunflower is a huge flower, but the head or fuzzy brown center actually contains 1000–2000 individual flowers. Each of those individual flowers will produce a sunflower seed.</br>
 
 #### Tools & Technologies
