@@ -12,10 +12,15 @@
 [Jupyter](https://jupyter.org/)</br>
 [Atlassian](https://www.atlassian.com/)</br>
 [PowerBI](https://powerbi.microsoft.com/)</br>
+[portainer.io](https://www.portainer.io/)</br>
 
-#### Frameworks & Languages
+#### Frameworks & DevOps
 [Python](https://www.python.org/)</br>
+[Regex/Parsing](https://regex101.com/)</br>
 [scikit-learn](https://scikit-learn.org/)</br>
+
+
+#### Methodologies & Data Architectures
 
 
 
