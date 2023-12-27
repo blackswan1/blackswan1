@@ -13,6 +13,7 @@
 [Atlassian](https://www.atlassian.com/)</br>
 [PowerBI](https://powerbi.microsoft.com/)</br>
 [portainer.io](https://www.portainer.io/)</br>
+[Airflow](https://airflow.apache.org/)<br>
 
 #### Frameworks & DevOps
 [Python](https://www.python.org/)</br>
